@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PullHub</string>
+    <string name="avatar_of">Avatar de %1$s</string>
+    <string name="by">Por %1$s • %2$s</string>
+    <string name="open">Aberto</string>
+    <string name="closed">Fechado</string>
+    <string name="authentication_failed_please_check_your_credentials">Falha na autenticação. Por favor, verifique suas credenciais</string>
+    <string name="access_denied_you_don_t_have_permission_to_access_this_resource">Acesso negado. Você não tem permissão para acessar este recurso</string>
+    <string name="the_requested_resource_was_not_found">O recurso solicitado não foi encontrado</string>
+    <string name="rate_limit_exceeded_please_try_again_later">Limite de requisições excedido. Por favor, tente novamente mais tarde</string>
+    <string name="server_error_please_try_again_later">Erro no servidor. Por favor, tente novamente mais tarde</string>
+    <string name="unknown_error">Ocorreu um erro desconhecido. Por favor, tente novamente mais tarde.</string>
+    <string name="an_unexpected_error_occurred">Ocorreu um erro inesperado</string>
+    <string name="no_internet_connection">Sem conexão com a internet</string>
+    <string name="request_timed_out_please_try_again">Tempo limite da requisição excedido. Por favor, tente novamente</string>
+    <string name="failed_to_process_the_response">Falha ao processar a resposta</string>
+    <string name="secure_connection_failed">Falha na conexão segura</string>
+    <string name="empty" />
+    <string name="retry">Repetir</string>
+    <string name="back">Voltar</string>
+    <string name="star_icon_representing_the_repository_s_popularity">Ícone de estrela representando a popularidade do repositório</string>
+    <string name="fork_icon_representing_the_repository_s_forks">Ícone de fork representando os forks do repositório</string>
+    <string name="pull_request_status">Pull request status: %1$s</string>
+</resources>
